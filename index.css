@@ -16,12 +16,17 @@
 
 .card-1 {
     width: 500px;
-    height: 500px;
-    background-color: rgba(50, 6, 6, 0.354);
+    height: 70vh;
+    background-color: rgba(0, 0, 0, 0.354);
 
     /*align*/
 
     display: flex;
     justify-content: center;
+    align-items: baseline;
+    
 
 }
+
+
+
